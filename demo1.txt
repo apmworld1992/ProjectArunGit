@@ -1,1 +1,3 @@
+
 This is my 1st Git class
+ Shruti is my instructor. Shubhs is another candidate here
